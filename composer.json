@@ -1,0 +1,16 @@
+{
+    "name": "yoloskr/worker",
+    "description": "Simple http server for learning Http",
+    "authors": [
+        {
+            "name": "yoloskr",
+            "email": "yoloskr@126.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Worker\\": "src/"
+        }
+    },
+    "require": {}
+}
